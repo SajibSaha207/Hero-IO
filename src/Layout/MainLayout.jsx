@@ -2,7 +2,7 @@ import Navber from '../Components/Navber'
 import LoadingSpiner from '../Components/LoadingSpiner'
 import Footer from '../Components/Footer'
 
-import { Outlet ,useNavigation } from 'react-router'; 
+import { Outlet, useNavigation } from "react-router-dom"; // <-- FIXED
 
 
 

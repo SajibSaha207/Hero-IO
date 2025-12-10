@@ -1,0 +1,293 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/jZrgN5qB/Snapshare.png",
+    "title": "SnapShare",
+    "companyName": "Pixel Labs",
+    "description": "A fast and fun photo sharing app to connect with your friends.",
+    "size": 45,
+    "reviews": 18432,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 10572 }
+    ]
+  },
+   {
+    "id": 2,
+    "image": "https://i.ibb.co.com/WWQvP1P8/zoom-meeting-logo-628407-1899.avif",
+    "title": "Zoom Cloud Meetings",
+    "companyName": "Zoom Inc.",
+    "description": "Video conferencing made simple, reliable, and high-quality.",
+    "size": 110,
+    "reviews": 584321,
+    "ratingAvg": 4.5,
+    "downloads": 98000000,
+    "ratings": [
+      { "name": "1 star", "count": 9500 },
+      { "name": "2 star", "count": 14000 },
+      { "name": "3 star", "count": 65000 },
+      { "name": "4 star", "count": 210000 },
+      { "name": "5 star", "count": 285821 }
+    ]
+  },
+   {
+    "id": 3,
+    "image": "https://i.ibb.co.com/ZzTcGJc9/pubg.avif",
+    "title": "PUBG Mobile",
+    "companyName": "Tencent Games",
+    "description": "The ultimate battle royale experience with realistic gameplay.",
+    "size": 750,
+    "reviews": 1084321,
+    "ratingAvg": 4.4,
+    "downloads": 600000000,
+    "ratings": [
+      { "name": "1 star", "count": 40200 },
+      { "name": "2 star", "count": 55000 },
+      { "name": "3 star", "count": 210000 },
+      { "name": "4 star", "count": 350000 },
+      { "name": "5 star", "count": 430121 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/23W2nJj8/taskflow-logo.png",
+    "title": "TaskFlow",
+    "companyName": "NextWave Tech",
+    "description": "Organize your day with smart to-do lists and reminders.",
+    "size": 32,
+    "reviews": 10213,
+    "ratingAvg": 4.4,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 430 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 4633 }
+    ]
+ },
+ {
+    "id": 5,
+    "image": "https://i.ibb.co.com/S7vZWgV8/spotify-1759471-1280.webp",
+    "title": "Spotify",
+    "companyName": "Spotify Ltd.",
+    "description": "Millions of songs, podcasts, and playlists—just a tap away.",
+    "size": 65,
+    "reviews": 934211,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 10200 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 65000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 591011 }
+    ]
+  },
+
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/JWySnfmZ/Tunebat.png",
+    "title": "TuneBat",
+    "companyName": "MelodySoft",
+    "description": "Stream your favorite songs and discover new artists every day.",
+    "size": 78,
+    "reviews": 50540,
+    "ratingAvg": 4.8,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 12500 },
+      { "name": "5 star", "count": 33040 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/1VPpFR7/Fit-track.jpg",
+    "title": "FitTrack",
+    "companyName": "HealthHub Inc.",
+    "description": "Track your workouts, calories, and progress easily.",
+    "size": 52,
+    "reviews": 23000,
+    "ratingAvg": 4.3,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 4400 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 8600 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/FbQhCddk/notewise.png",
+    "title": "NoteWise",
+    "companyName": "MindSpark",
+    "description": "Take notes, organize ideas, and sync across all devices.",
+    "size": 28,
+    "reviews": 8432,
+    "ratingAvg": 4.2,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 2532 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/7cSWMn6/FoodMate.jpg",
+    "title": "FoodMate",
+    "companyName": "Chefify",
+    "description": "Find and order delicious food from nearby restaurants.",
+    "size": 65,
+    "reviews": 35000,
+    "ratingAvg": 4.5,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 4100 },
+      { "name": "4 star", "count": 9500 },
+      { "name": "5 star", "count": 19700 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/6cX7x1n1/weather-Now.jpg",
+    "title": "WeatherNow",
+    "companyName": "SkyWatch",
+    "description": "Get real-time weather updates and accurate forecasts.",
+    "size": 23,
+    "reviews": 9700,
+    "ratingAvg": 4.1,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 3300 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/hJYtzD93/budget-Pro.jpg",
+    "title": "BudgetPro",
+    "companyName": "FinTech Studios",
+    "description": "Manage your expenses and savings easily with smart insights.",
+    "size": 40,
+    "reviews": 14500,
+    "ratingAvg": 4.6,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 9280 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/CK47X2fP/Bookly.jpg",
+    "title": "Bookly",
+    "companyName": "ReadHub",
+    "description": "Read, bookmark, and review your favorite books.",
+    "size": 55,
+    "reviews": 20000,
+    "ratingAvg": 4.7,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5800 },
+      { "name": "5 star", "count": 11200 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co.com/RGrRB14c/TravelX.png",
+    "title": "TravelX",
+    "companyName": "GoWorld",
+    "description": "Plan and book your next trip with exclusive travel deals.",
+    "size": 68,
+    "reviews": 18200,
+    "ratingAvg": 4.3,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 8400 }
+    ]
+  },
+  { 
+    "id": 14,
+    "image": "https://i.ibb.co.com/VY0cbK5y/Learnly.png",
+    "title": "Learnly",
+    "companyName": "EduVerse",
+    "description": "Online learning platform for students and professionals.",
+    "size": 75,
+    "reviews": 50500,
+    "ratingAvg": 4.9,
+    "downloads": 6400000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 36500 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co.com/21zQ06Vn/Meet.png",
+    "title": "Meet",
+    "companyName": "Connectify",
+    "description": "Video meeting app with HD quality and real-time collaboration.",
+    "size": 88,
+    "reviews": 73000,
+    "ratingAvg": 4.4,
+    "downloads": 8700000,
+    "ratings": [
+      { "name": "1 star", "count": 2200 },
+      { "name": "2 star", "count": 3100 },
+      { "name": "3 star", "count": 7200 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 42500 }
+    ]
+  },
+    {
+    "id": 16,
+    "image": "https://i.ibb.co.com/HD8WYkr8/sleek-telegram-icon-logo-secure-messaging-1293861-129.avif",
+    "title": "Telegram",
+    "companyName": "Telegram LLC",
+    "description": "Fast and secure messaging with unlimited cloud storage.",
+    "size": 40,
+    "reviews": 240310,
+    "ratingAvg": 4.5,
+    "downloads": 120000000,
+    "ratings": [
+      { "name": "1 star", "count": 3200 },
+      { "name": "2 star", "count": 5100 },
+      { "name": "3 star", "count": 28000 },
+      { "name": "4 star", "count": 98000 },
+      { "name": "5 star", "count": 103010 }
+    ]
+  }
+
+  
+]

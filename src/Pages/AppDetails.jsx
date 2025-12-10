@@ -71,7 +71,7 @@ const AppDetails = () => {
           <h1 className="text-3xl md:text-4xl font-bold text-center md:text-left ml-10">
              Apps Name :{det.title}</h1> 
            
-             <p>Developed by <span className='font-bold text-purple-500 font-xl'> fuadhasan199 </span></p> 
+             <p>Developed by <span className='font-bold text-purple-500 font-xl'> Sajib Saha </span></p> 
              <hr />
 
          

@@ -1,16 +1,28 @@
-# React + Vite
+Project Name : HERO.IO 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features :
 
-Currently, two official plugins are available:
+            1 : Fetch and display apps from JSON data
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+            2 : Install & uninstall apps using localStorage
 
-## React Compiler
+            3 : React Router for page navigation
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+            4 : Responsive UI with Tailwind CSS
 
-## Expanding the ESLint configuration
+            5 : Reusable components (Navbar, Footer, AppCard, etc.)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Technology :
+
+      technology :  React.js 
+
+      styling    : Tailwind css and Daisy-ui 
+
+      storage    : Local Storage 
+
+      routing    : React-router 
+
+      data-source : Local Data file 
+
+      notification : React-Toastify
